@@ -1,0 +1,1 @@
+for(i=0;i<4;i++) console.log(" ".repeat(3-i)+"* ".repeat(i+1)); 
